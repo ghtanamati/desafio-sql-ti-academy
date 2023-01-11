@@ -1,1 +1,1 @@
-# desafio-sql-ti-academy
+# Desafio SQL - TI Academy + Benner
